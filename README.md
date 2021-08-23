@@ -4,7 +4,7 @@ Mijn naam is Hugo Moré, in dit portfolio wil ik graag de vaardigheden laten zie
 
 Ik ben erg gemotiveerd om meer te weten te komen over de maak industrie en het ontwerpen met CAD. Graag zou ik meer ervaring op doen in het werkveld en nieuwe vaardigheden leren. Ik leer snel en ben op zoek naar een kans om mijzelf verder te ontwikkelen. 
 
-Legenda Mappen
+#### Legenda Mappen
 -	Certificaten: Behaalde certificaten van verschillende CAD programma’s 
 -	Curriculum Vitae: Mijn CV
 -	Lesmateriaal: Relevante boeken die ik doorgewerkt heb
